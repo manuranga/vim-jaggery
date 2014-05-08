@@ -23,3 +23,6 @@ Make sure that the `filetype` is turned off immediately after pathogen infect an
     filetype off
     syntax on
     filetype plugin indent on
+
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/13fe2f6a9a2a5f8a36445623d5777951 "githalytics.com")](http://githalytics.com/manuranga/vim-jaggery)
