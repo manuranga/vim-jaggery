@@ -13,7 +13,7 @@ Install
 2. Copy `ftdetect` and `ftplugin` into ~/.vim
 3. Addd follwing to ~/.vimrc
 
-    `syntax plugin on`
+    `filetype plugin on`
 
 
 ## Install via pathogen
