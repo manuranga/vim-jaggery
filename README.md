@@ -9,9 +9,9 @@ Install
 
 ## Basic Install
 
-1. clone this repository
+1. Clone this repository
 2. Copy `ftdetect` and `ftplugin` into ~/.vim
-3. addd follwing to ~/.vimrc
+3. Addd follwing to ~/.vimrc
 
     `syntax plugin on`
 
