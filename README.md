@@ -31,3 +31,6 @@ Install
     filetype plugin indent on
 ```
 
+## Screenshot
+
+![vim-jaggery screenshot](http://i.imgur.com/rxlnalX.png)
